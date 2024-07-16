@@ -11,5 +11,5 @@ def hungerBar():
     if finalPoints < 0:
         finalPoints = 0
     print(f"You have {finalPoints} remaining hunger points")
-    
-hungerBar()
+
+#hungerBar()
